@@ -1,0 +1,593 @@
+[
+  {
+    "page": 1,
+    "text": "Field of Nursing\nNursing Program\nFinal practical revision\nBy : (Dr Sarah salama )",
+    "questions": []
+  },
+  {
+    "page": 2,
+    "text": "1.Describe the pupil: Dilated\n2. Mention the autonomic nervous system responsible for this action :Sympathetic",
+    "questions": [
+      {
+        "id": "q2_1",
+        "question": "Describe the pupil:",
+        "answer": "Dilated",
+        "type": "describe",
+        "options": [
+          "Irregular",
+          "Constricted",
+          "Dilated",
+          "Normal"
+        ],
+        "correct_index": 2
+      },
+      {
+        "id": "q2_2",
+        "question": "Mention the autonomic nervous system responsible for this action:",
+        "answer": "Sympathetic",
+        "type": "identify",
+        "options": [
+          "Somatic",
+          "Sympathetic",
+          "Central",
+          "Parasympathetic"
+        ],
+        "correct_index": 1
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "text": "1.Describe the pupil: Constricted\n2. Mention the autonomic nervous system responsible for this action :Parasympathetic",
+    "questions": [
+      {
+        "id": "q3_1",
+        "question": "Describe the pupil:",
+        "answer": "Constricted",
+        "type": "describe",
+        "options": [
+          "Normal",
+          "Dilated",
+          "Fixed",
+          "Constricted"
+        ],
+        "correct_index": 3
+      },
+      {
+        "id": "q3_2",
+        "question": "Mention the autonomic nervous system responsible for this action:",
+        "answer": "Parasympathetic",
+        "type": "identify",
+        "options": [
+          "Somatic",
+          "Parasympathetic",
+          "Sympathetic",
+          "Central"
+        ],
+        "correct_index": 1
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "text": "1.Describe the urinary bladder: Retention\n2. Mention the autonomic nervous system responsible for this action :Sympathetic",
+    "questions": [
+      {
+        "id": "q4_1",
+        "question": "Describe the urinary bladder:",
+        "answer": "Retention",
+        "type": "describe",
+        "options": [
+          "Full",
+          "Retention",
+          "Contracted",
+          "Empty"
+        ],
+        "correct_index": 1
+      },
+      {
+        "id": "q4_2",
+        "question": "Mention the autonomic nervous system responsible for this action:",
+        "answer": "Sympathetic",
+        "type": "identify",
+        "options": [
+          "Parasympathetic",
+          "Central",
+          "Somatic",
+          "Sympathetic"
+        ],
+        "correct_index": 3
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "text": "1.Describe the Rectum: Retention\n2. Mention the autonomic nervous system responsible for this action :Sympathetic",
+    "questions": [
+      {
+        "id": "q5_1",
+        "question": "Describe the Rectum:",
+        "answer": "Retention",
+        "type": "describe",
+        "options": [
+          "Empty",
+          "Contracted",
+          "Full",
+          "Retention"
+        ],
+        "correct_index": 3
+      },
+      {
+        "id": "q5_2",
+        "question": "Mention the autonomic nervous system responsible for this action:",
+        "answer": "Sympathetic",
+        "type": "identify",
+        "options": [
+          "Sympathetic",
+          "Parasympathetic",
+          "Central",
+          "Somatic"
+        ],
+        "correct_index": 0
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "text": "Blood groups\nDetermination of blood group by:\nABO system\nRh factor ( -Ve or +Ve)",
+    "questions": []
+  },
+  {
+    "page": 7,
+    "text": "Blood groups\nABO system\ncell membrane of RBCs contain mucopolysaccharide substance called antigen",
+    "questions": []
+  },
+  {
+    "page": 8,
+    "text": "Blood groups\nRh factor ( D antigen)\n85% of people are Rh positive\n15% of people are Rh negative",
+    "questions": []
+  },
+  {
+    "page": 9,
+    "text": "Blood groups",
+    "questions": []
+  },
+  {
+    "page": 10,
+    "text": "Equipment:\nGlass slide.\nSterile lancet.\nAnti A serum.\nAnti B serum.\nAnti D serum\nBlood groups",
+    "questions": []
+  },
+  {
+    "page": 11,
+    "text": "Equipment:\nPut 3 drops of blood separately on a glass slide.\nA drop of anti A serum (blue) is added on one drop of blood.\nA drop of anti B serum (yellow) is placed on a second drop of blood\nA drop of anti D serum (colorless) is placed on a third drop of blood.\nMix each drop of blood with the serum and watch for agglutination (don't say coagulation).\nBlood groups",
+    "questions": []
+  },
+  {
+    "page": 12,
+    "text": "Blood groups\nB +Ve",
+    "questions": [
+      {
+        "id": "q12_1",
+        "question": "What is the blood group shown in the image?",
+        "answer": "B +Ve",
+        "type": "identify",
+        "options": [
+          "A +Ve",
+          "AB -Ve",
+          "B +Ve",
+          "O +Ve"
+        ],
+        "correct_index": 2
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "text": "Blood groups\nTest yourself:\nB+\nB-\nA+\nB+\nO+\nAB+",
+    "questions": []
+  },
+  {
+    "page": 14,
+    "text": "1.Which type of transport is demonstrated in picture? Simple transport\n2. It depends on : concentration, thickness of membrane, surface area",
+    "questions": [
+      {
+        "id": "q14_1",
+        "question": "Which type of transport is demonstrated in picture?",
+        "answer": "Simple transport",
+        "type": "identify",
+        "options": [
+          "Active transport",
+          "Osmosis",
+          "Simple transport",
+          "Facilitated diffusion"
+        ],
+        "correct_index": 2
+      },
+      {
+        "id": "q14_2",
+        "question": "It depends on:",
+        "answer": "concentration, thickness of membrane, surface area",
+        "type": "describe",
+        "options": [
+          "temperature, pH, enzymes",
+          "concentration, thickness of membrane, surface area",
+          "energy, ATP, carrier proteins",
+          "osmosis, diffusion, filtration"
+        ],
+        "correct_index": 1
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "text": "1.Which type of transport is demonstrated in picture? primary active transport\n2. It depends on : Carrier( saturation, specificity, competition), energy.",
+    "questions": [
+      {
+        "id": "q15_1",
+        "question": "Which type of transport is demonstrated in picture?",
+        "answer": "Primary active transport",
+        "type": "identify",
+        "options": [
+          "Secondary active transport",
+          "Endocytosis",
+          "Simple transport",
+          "Primary active transport"
+        ],
+        "correct_index": 3
+      },
+      {
+        "id": "q15_2",
+        "question": "It depends on:",
+        "answer": "Carrier (saturation, specificity, competition), energy",
+        "type": "describe",
+        "options": [
+          "concentration, membrane thickness, surface area",
+          "osmosis, diffusion, gradient",
+          "Carrier (saturation, specificity, competition), energy",
+          "temperature, pressure, volume"
+        ],
+        "correct_index": 2
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "text": "ECG : Electrocardiogram\nHow to calculate heart rate (HR) ?\nHR= 300/ number of large squares between R and R waves\nHR= 1500/ number of small squares between R and R waves",
+    "questions": []
+  },
+  {
+    "page": 17,
+    "text": "ECG : Electrocardiogram\nNormal heart rate?\n60-100 beat/minute\nIf > 100= Tachycardia\nIf< 60= Bradycardia",
+    "questions": []
+  },
+  {
+    "page": 18,
+    "text": "1.Identify this curve\nECG\n2. Calculate heart rate (HR).\nHR=300/no of large squares.\nHR=300/4= 75 beat/minute.",
+    "questions": [
+      {
+        "id": "q18_1",
+        "question": "Identify this curve",
+        "answer": "ECG",
+        "type": "identify",
+        "options": [
+          "ECG",
+          "EEG",
+          "EMG",
+          "EOG"
+        ],
+        "correct_index": 0
+      },
+      {
+        "id": "q18_2",
+        "question": "Calculate heart rate (HR).",
+        "answer": "75 beat/minute",
+        "type": "calculate",
+        "options": [
+          "60 beat/minute",
+          "75 beat/minute",
+          "120 beat/minute",
+          "100 beat/minute"
+        ],
+        "correct_index": 1
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "text": "1.Identify this curve\nECG\n2. Calculate heart rate (HR), comment.\nHR=300/no of large squares.\nHR=300/2= 150 beat/minute. Tachycardia",
+    "questions": [
+      {
+        "id": "q19_1",
+        "question": "Identify this curve",
+        "answer": "ECG",
+        "type": "identify",
+        "options": [
+          "EOG",
+          "ECG",
+          "EEG",
+          "EMG"
+        ],
+        "correct_index": 1
+      },
+      {
+        "id": "q19_2",
+        "question": "Calculate heart rate (HR), comment.",
+        "answer": "150 beat/minute, Tachycardia",
+        "type": "calculate",
+        "options": [
+          "150 beat/minute, Tachycardia",
+          "60 beat/minute, Bradycardia",
+          "50 beat/minute, Normal",
+          "75 beat/minute, Normal"
+        ],
+        "correct_index": 0
+      }
+    ]
+  },
+  {
+    "page": 20,
+    "text": "1.Identify this curve\n2. Calculate heart rate (HR), comment.",
+    "questions": [
+      {
+        "id": "q20_1",
+        "question": "Identify this curve",
+        "answer": "ECG",
+        "type": "identify",
+        "options": [
+          "EOG",
+          "EMG",
+          "ECG",
+          "EEG"
+        ],
+        "correct_index": 2
+      },
+      {
+        "id": "q20_2",
+        "question": "Calculate heart rate (HR), comment.",
+        "answer": "75 beat/minute, Normal",
+        "type": "calculate",
+        "options": [
+          "75 beat/minute, Normal",
+          "Option A",
+          "Option C",
+          "Option B"
+        ],
+        "correct_index": 0
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "text": "1.Identify this curve\n2. Calculate heart rate (HR), comment.",
+    "questions": [
+      {
+        "id": "q21_1",
+        "question": "Identify this curve",
+        "answer": "ECG",
+        "type": "identify",
+        "options": [
+          "EOG",
+          "EMG",
+          "EEG",
+          "ECG"
+        ],
+        "correct_index": 3
+      },
+      {
+        "id": "q21_2",
+        "question": "Calculate heart rate (HR), comment.",
+        "answer": "60 beat/minute, Bradycardia",
+        "type": "calculate",
+        "options": [
+          "100 beat/minute, Normal",
+          "75 beat/minute, Normal",
+          "60 beat/minute, Bradycardia",
+          "150 beat/minute, Tachycardia"
+        ],
+        "correct_index": 2
+      }
+    ]
+  },
+  {
+    "page": 22,
+    "text": "1.Identify this curve\nECG\n2. Calculate heart rate (HR), comment.\nHR=300/no of large squares.\nHR=300/4= 75 beat/minute.",
+    "questions": [
+      {
+        "id": "q22_1",
+        "question": "Identify this curve",
+        "answer": "ECG",
+        "type": "identify",
+        "options": [
+          "ECG",
+          "EMG",
+          "EEG",
+          "EOG"
+        ],
+        "correct_index": 0
+      },
+      {
+        "id": "q22_2",
+        "question": "Calculate heart rate (HR), comment.",
+        "answer": "75 beat/minute",
+        "type": "calculate",
+        "options": [
+          "75 beat/minute",
+          "60 beat/minute",
+          "120 beat/minute",
+          "100 beat/minute"
+        ],
+        "correct_index": 0
+      }
+    ]
+  },
+  {
+    "page": 23,
+    "text": "1.Identify this curve\n2. Calculate heart rate (HR), comment.",
+    "questions": [
+      {
+        "id": "q23_1",
+        "question": "Identify this curve",
+        "answer": "ECG",
+        "type": "identify",
+        "options": [
+          "EEG",
+          "EOG",
+          "EMG",
+          "ECG"
+        ],
+        "correct_index": 3
+      },
+      {
+        "id": "q23_2",
+        "question": "Calculate heart rate (HR), comment.",
+        "answer": "100 beat/minute, Normal",
+        "type": "calculate",
+        "options": [
+          "50 beat/minute, Normal",
+          "60 beat/minute, Bradycardia",
+          "100 beat/minute, Normal",
+          "150 beat/minute, Tachycardia"
+        ],
+        "correct_index": 2
+      }
+    ]
+  },
+  {
+    "page": 24,
+    "text": "1.Identify this curve\n2. Calculate heart rate (HR), comment\nHR=300/no of large squares.\nHR=300/2.5 = 120 beat/minute, Tacychardia",
+    "questions": [
+      {
+        "id": "q24_1",
+        "question": "Identify this curve",
+        "answer": "ECG",
+        "type": "identify",
+        "options": [
+          "EMG",
+          "EOG",
+          "ECG",
+          "EEG"
+        ],
+        "correct_index": 2
+      },
+      {
+        "id": "q24_2",
+        "question": "Calculate heart rate (HR), comment",
+        "answer": "120 beat/minute, Tachycardia",
+        "type": "calculate",
+        "options": [
+          "120 beat/minute, Tachycardia",
+          "100 beat/minute, Normal",
+          "60 beat/minute, Bradycardia",
+          "75 beat/minute, Normal"
+        ],
+        "correct_index": 0
+      }
+    ]
+  },
+  {
+    "page": 25,
+    "text": "Investigations:\nNormal:\nFasting : ( 70 110 mg%)\n2 hours - Postprandial : (  140 mg %)\nRandom : (  140 mg %)\nHyperglycemia, Diabetes:\nFasting : (  140 mg%)\n2 hours - Postprandial : (  180 mg %)\nRandom : (  200 mg %)\nHypoglycemia:\n< 70 mg%",
+    "questions": []
+  },
+  {
+    "page": 26,
+    "text": "1.Identify the device.\nGlucometer\n2.Comment on blood glucose level.\nNormal ( Normoglycemia)",
+    "questions": [
+      {
+        "id": "q26_1",
+        "question": "Identify the device.",
+        "answer": "Glucometer",
+        "type": "identify",
+        "options": [
+          "Stethoscope",
+          "Thermometer",
+          "Glucometer",
+          "Sphygmomanometer"
+        ],
+        "correct_index": 2
+      },
+      {
+        "id": "q26_2",
+        "question": "Comment on blood glucose level.",
+        "answer": "Normal (Normoglycemia)",
+        "type": "comment",
+        "options": [
+          "Normal (Normoglycemia)",
+          "Hypoglycemia",
+          "Hyperglycemia",
+          "Pre-diabetes"
+        ],
+        "correct_index": 0
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "text": "1. Identify the device.\nGlucometer\n2. Comment on blood glucose level.\nHyperglycemia.",
+    "questions": [
+      {
+        "id": "q27_1",
+        "question": "Identify the device.",
+        "answer": "Glucometer",
+        "type": "identify",
+        "options": [
+          "Stethoscope",
+          "Thermometer",
+          "Glucometer",
+          "Sphygmomanometer"
+        ],
+        "correct_index": 2
+      },
+      {
+        "id": "q27_2",
+        "question": "Comment on blood glucose level.",
+        "answer": "Hyperglycemia",
+        "type": "comment",
+        "options": [
+          "Diabetes insipidus",
+          "Normal (Normoglycemia)",
+          "Hypoglycemia",
+          "Hyperglycemia"
+        ],
+        "correct_index": 3
+      }
+    ]
+  },
+  {
+    "page": 28,
+    "text": "1. Identify the device.\nGlucometer\n2. Comment on blood glucose level.\nHypoglycemia.",
+    "questions": [
+      {
+        "id": "q28_1",
+        "question": "Identify the device.",
+        "answer": "Glucometer",
+        "type": "identify",
+        "options": [
+          "Sphygmomanometer",
+          "Glucometer",
+          "Thermometer",
+          "Stethoscope"
+        ],
+        "correct_index": 1
+      },
+      {
+        "id": "q28_2",
+        "question": "Comment on blood glucose level.",
+        "answer": "Hypoglycemia",
+        "type": "comment",
+        "options": [
+          "Hypoglycemia",
+          "Normal (Normoglycemia)",
+          "Hyperglycemia",
+          "Diabetes mellitus"
+        ],
+        "correct_index": 0
+      }
+    ]
+  },
+  {
+    "page": 29,
+    "text": "",
+    "questions": []
+  }
+]
